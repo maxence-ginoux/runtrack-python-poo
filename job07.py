@@ -18,7 +18,7 @@ class Personnage:
     def position(self):
         print("position du personnage :", self.x,",", self.y)
 
-#Utilisation acvec position initialjoueurPersonnage(0, 0)
+#Utilisation acvec position initiale
 joueur = Personnage(0, 0)
 
 #Déplacements
